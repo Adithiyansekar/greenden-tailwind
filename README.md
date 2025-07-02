@@ -22,5 +22,5 @@ Hi, I'm Adithiyan Sekar – a passionate web developer who loves building unique
 
 You can check out this and other cool projects right here on my GitHub!
 ## 📂 Live Demo & Repository
-🔗 [Live Demo](https://adithiyansekar.github.io/TRIPAdvisor-Clone-p1/)  
+🔗 [Live Demo]([https://adithiyansekar.github.io/TRIPAdvisor-Clone-p1/](https://adithiyansekar.github.io/greenden-tailwind/))  
 📁 [Repository](https://github.com/Adithiyansekar/TRIPAdvisor-Clone-p1)
